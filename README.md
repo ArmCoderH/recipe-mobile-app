@@ -3,3 +3,8 @@
        width="500"
        height="700">
 </p>
+<p>
+  <img src="https://github.com/ArmCoderH/recipe-mobile-app/blob/e4e0d64b1db76c1996318c62fe2285ad6d772d40/ezgif-477aad922c728e8c.gif"
+       width="500"
+       height="700">
+</p>
